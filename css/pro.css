@@ -12,3 +12,12 @@ body{
     height: 450px;
     width: 250px;
 }
+.hidden{
+
+    display: none;
+}
+.red
+{
+    text-align: center;
+    color: red;
+}

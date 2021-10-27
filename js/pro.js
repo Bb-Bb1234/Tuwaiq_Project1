@@ -12,7 +12,10 @@
 $('#login').click(function() {
     let userName = $('#username').val();
     let password = $('#password').val();
-    
+    if(userName ===""|| password ===""){
+
+    $('elert').removeclass('hidden');
+    }
     if (userName === "Bader" && password === "123") {
         open('index.html');
     }else{
