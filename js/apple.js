@@ -3,20 +3,21 @@ const obj = [{
     model: "8",
     price: "1050",
     specs:"ios 10 \n ram: 15gb",
-    images:"../Tuwaiq_Project1/images/Aplle.img"
+    images:"../Tuwaiq_Project1/images/Aplle.img",
 
 },{
     name: "Iphone",
     model: "12",
     price: "2500",
-    specs:"ios 11 \n ram: 15gb"
+    specs:"ios 11 \n ram: 15gb",
+    images:"../Tuwaiq_Project1/images/Apllebbb.img",
 
 },{
     name: "Iphone",
     model: "10",
     price: "2800",
     specs:"ios 13 \n ram: 15gb",
-    images:"../Tuwaiq_Project1/images/Apllebbb.img"
+    images:"../Tuwaiq_Project1/images/Apllebbbl.jpg",
 },];
 
 

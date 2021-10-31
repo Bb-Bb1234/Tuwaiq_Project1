@@ -10,13 +10,13 @@ const obj1 = [{
     model: "جالكسي",
     price: "1199",
     specs:"ios 11 \n ram: 15gb",
-    images:"../Tuwaiq_Project1/images/phonean.png"
+    images:"../Tuwaiq_Project1/images/img4.jpg"
 },{
     name: "android",
     model: "جالكسي",
     price: "799",
     specs:"ios 13 \n ram: 15gb",
-    images:"../Tuwaiq_Project1/images/phonean.png"
+    images:"../Tuwaiq_Project1/images/img.indr.webp"
 },];
 
 
